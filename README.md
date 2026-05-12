@@ -110,4 +110,3 @@ Caso clásico de misterio - 5 finales posibles
 ---
 
 ¡Buena suerte, detective!
-```
